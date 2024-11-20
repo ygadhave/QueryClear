@@ -1,4 +1,4 @@
-## EduConnect
+## QueryClear
 
 ### API's documentation: https://documenter.getpostman.com/view/29753054/2s9YymGjLf
 
